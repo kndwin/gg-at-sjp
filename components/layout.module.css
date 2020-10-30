@@ -10,9 +10,10 @@
   align-items: center;
 }
 
-.headerImage {
-  width: 6rem;
-  height: 6rem;
+.headerHome {
+  display: flex;
+  flex-direction: row;
+  padding: 2em;
 }
 
 .headerHomeImage {
@@ -22,4 +23,8 @@
 
 .backToHome {
   margin: 3rem 0 0;
+}
+
+.heading2xl {
+  padding-left: 1em;
 }

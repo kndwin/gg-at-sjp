@@ -2,9 +2,10 @@ import Head from 'next/head'
 import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
+import Image from 'next/image'
 
 const name = `Growth Groups at St John's`
-export const siteTitle = 'GG@SJP'
+export const siteTitle = 'gg@sjp'
 
 export default function Layout({
   children,
@@ -24,9 +25,20 @@ export default function Layout({
       </Head>
       <header className={styles.header}>
         {home ? (
-          <>
-            <h1 className={utilStyles.heading2Xl}>{name}</h1>
-          </>
+          <div className={styles.headerHome}>
+            <Image 
+              src='/images/icon.png'
+              alt='Icon'
+              width={150}
+              height={150}
+            />
+            <h1 className={`${utilStyles.heading2xl} 
+              ${styles.heading2xl}`}>
+              Growth Groups
+              <br/>
+              at St John's
+            </h1>
+          </div>
         ) : (
           <>
             <h2 className={utilStyles.headingLg}>
