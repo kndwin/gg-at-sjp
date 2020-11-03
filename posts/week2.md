@@ -1,5 +1,5 @@
 ---
-title: 📖 Sharing your testimony (week 2)
+title: 📖 Sharing your testimony - Your story (week 2)
 date: "2020-10-20"
 ---
 ## ❔ Opening (15 mins)
