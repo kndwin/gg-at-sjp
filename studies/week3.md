@@ -1,6 +1,8 @@
 ---
-title: 📖 Sharing your testimony - Audiences story (week 3)
+title: 📖 Sharing your testimony - Audiences story
 date: "2020-10-27"
+week: "week 3"
+series: "Sharing your testimony"
 ---
 
 # Your Story

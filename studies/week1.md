@@ -1,6 +1,8 @@
 ---
-title: 📖 Sharing your testimony - God's story (week 1)
-date: "2020-10-06"
+title: 📖 Sharing your testimony - God's story
+date: "2020-10-14"
+week: "week 1"
+series: "Sharing your testimony"
 ---
 
 # Preparing your Testimony
@@ -30,31 +32,28 @@ subsequent weeks of growth group. The goal of these weeks is highly
 practical, to have every member prepare a clear, compelling and gospel
 focused testimony ready to be 'pulled out of our back pocket'.
 
-4.  Let's have a look at the Bible. Acts 2:36; 3:13-15; 4:10; 13:32-33;
-    17:31-32; 26:23; Romans 1:2-4 (15 minutes)
-
-```{=html}
-<!-- -->
+4.  Let's have a look at the Bible. 
 ```
-A)  What is core content of the gospel according to these verses?
-
-B)  What surprises you from these verses?
-
-```{=html}
-<!-- -->
+Acts 2:36; 3:13-15; 4:10; 13:32-33;
+17:31-32; 26:23; Romans 1:2-4 (15 minutes)
 ```
+
+A. What is core content of the gospel according to these verses?
+
+B. What surprises you from these verses?
+
 5.  What would be the problem if your testimony focused too much on your
     'audience's story?' (5 minutes)
 
 6.  What would be the problem if the testimony focused too much on 'your
     story of transformation'? (5 minutes)
 
-PRACTICE
+## Practice
 
 7.  Growth Group leader to share their testimony. Did it have the
     gospel? (10 minutes)
 
-**Breakout Group \# 2**
+## Breakout Group #2
 
 8.  Write down your Christian testimony (God's Story through your Story)
     (20 minutes)
@@ -62,8 +61,8 @@ PRACTICE
 *Keep it to 3-3.5 minutes maximum. Have a 1-minute version available
 too.*
 
-**{PRAY}**
+## Pray
 
-HOMEWORK
+## Homework
 
 Finish writing your testimony and come next week prepared to share it.

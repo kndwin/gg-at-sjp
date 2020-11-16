@@ -1,6 +1,8 @@
 ---
-title: 📖 Sharing your testimony - Your story (week 2)
+title: 📖 Sharing your testimony - Your story
 date: "2020-10-20"
+week: "week 2"
+series: "Sharing your testimony"
 ---
 ## ❔ Opening (15 mins)
 - Why is it hard to share our testimony?
